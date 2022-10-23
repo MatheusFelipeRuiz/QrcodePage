@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/MatheusFelipeRuiz/Product-Preview-Card-Component?style=social)
 
 
-![](src/printProductPreviewCardComponent.png)
+![](src/qrcode-photo-site.png)
 
 
 
