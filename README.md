@@ -14,7 +14,7 @@
 
 Projeto simples que consiste em uma página contendo um QRCODE.
 
-## [Acessar site](https://matheusfeliperuiz.github.io/Product-Preview-Card-Component/)
+## [Acessar site](https://matheusfeliperuiz.github.io/QrcodePage/)
 
 ##  Desenvolvido com: 
 
